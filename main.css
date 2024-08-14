@@ -1,0 +1,8 @@
+*{
+    font-family: Gidole, Poppins, sans-serif;
+}
+
+.flex{
+    display: flex;
+    gap: .8rem;
+}
